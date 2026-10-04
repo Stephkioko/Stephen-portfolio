@@ -1,0 +1,1 @@
+INSERT INTO tool_catalog (name,version,chipset,brand,description,source_url,verified) VALUES ('QPST','Latest','Qualcomm','Qualcomm','Qualcomm service and diagnostic toolkit family.','https://qpsttool.com/',false)

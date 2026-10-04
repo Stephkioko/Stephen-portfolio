@@ -1,0 +1,1 @@
+INSERT INTO tool_catalog (name,version,chipset,brand,description,source_url,verified) VALUES ('Odin','v3.x','Samsung','Samsung','Samsung firmware flashing utility family.','https://developer.samsung.com/android-usb-driver',true)

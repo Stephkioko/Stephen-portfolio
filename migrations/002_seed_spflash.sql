@@ -1,0 +1,1 @@
+INSERT INTO tool_catalog (name,version,chipset,brand,description,source_url,verified) VALUES ('SP Flash Tool','v6.x','MediaTek','Tecno','MediaTek service and flashing utility family.','https://spflashtool.com/',true)

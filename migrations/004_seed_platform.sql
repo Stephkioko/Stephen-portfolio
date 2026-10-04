@@ -1,0 +1,1 @@
+INSERT INTO tool_catalog (name,version,chipset,brand,description,source_url,verified) VALUES ('Android Platform Tools','Latest','Universal','Universal','Official ADB and Fastboot platform utilities.','https://developer.android.com/tools/releases/platform-tools',true)
